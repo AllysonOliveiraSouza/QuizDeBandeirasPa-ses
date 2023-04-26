@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\bin\Debug\Quiz.exe
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\bin\Debug\Quiz.pdb
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.F_P1.resources
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.F_P2.resources
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.F_P3.resources
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.exe
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.pdb
+C:\Users\usuario\Desktop\Estudos a parte\C#\Quiz\obj\Debug\Quiz.F_bemVindo.resources
